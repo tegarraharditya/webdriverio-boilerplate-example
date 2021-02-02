@@ -29,7 +29,7 @@ report.generate({
   reportName: 'Web Automation Framework',
   openReportInBrowser: true,
   pageFooter:
-    '<div class="created-by"><p>Powered by &copy; <a href="https://labs42.io" target="_blank">Labs42</a></p></div>',
+    '<div class="created-by"><p>Powered by &copy; <a href="https://wedevbiz" target="_blank">wdb</a></p></div>',
 
   customData: addCIMetadata(customData),
 });

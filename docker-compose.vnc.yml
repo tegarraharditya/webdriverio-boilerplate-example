@@ -19,7 +19,7 @@ services:
       - SCREEN_HEIGHT=${SCREEN_HEIGHT}
     ports:
       - "5555:5555"
-      - "5900:5900"
+      - "5902:5900"
 
   firefox:
     image: selenium/node-firefox-debug:${SELENIUM_VERSION}
